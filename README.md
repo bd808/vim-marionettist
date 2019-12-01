@@ -7,8 +7,8 @@ Features
 --------
 
 * Marionettist_LoadFile : Try to find a manifest, file, or template based on
-  the provided string. Bound to <E> (for edit) in normal mode with <cfile> as
-  the input. Also mapped to `:E ...`. Folks who are not used to this
+  the provided string. Bound to `<E>` (for edit) in normal mode with `<cfile>`
+  as the input. Also mapped to `:E ...`. Folks who are not used to this
   particular mapping might choose to override `gf` to do the same thing.
 
 License
